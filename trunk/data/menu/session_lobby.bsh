@@ -1,0 +1,41 @@
+import com.dennisbijlsma.xmlserver.*;
+
+MODES=new String[] {null,"Time","Race"};
+AI_LEVELS=new String[] {null,"Easy","Normal","Hard"};
+
+// Setup menu
+
+menu.setTitle(settings.getText("menu.lobby.title"));
+
+// Add buttons
+
+framework.createButton(menu,settings.getText("menu.back"),'B',framework.MENU_MAIN);
+framework.createButton(menu,settings.getText("menu.start"),'S',framework.ACTION_START_GAME);
+
+// Add widgets
+
+var table=new MenuTable(new String[]{settings.getText("menu.lobby.name"),settings.getText("menu.lobby.car"),
+		settings.getText("menu.lobby.ip"),settings.getText("menu.lobby.version")},new int[]{30,30,25,15},8);
+var circuitWidget=new MenuOption(settings.getText("menu.startsession.circuit"),settings.circuit,0);
+var recordWidget=new MenuOption(settings.getText("menu.startsession.trackrecord"),settings.getText("menu.lobby.loadingrecords"),0);
+var modeWidget=new MenuOption(settings.getText("menu.startsession.racetype"),MODES[settings.mode]+" ("+settings.laps+" laps)",0);
+var aiWidget=new MenuOption(settings.getText("menu.startsession.aiactive"),MenuOption.getBooleanText(settings.aiActive)+" ("+AI_LEVELS[settings.aiLevel]+")",0);
+var chatWidget=new MenuChat(Multiplayer.getInstance().getConnectionManager());
+
+framework.createWidget(menu,0,table);		
+framework.createWidget(menu,0,circuitWidget);
+framework.createWidget(menu,0,recordWidget);
+framework.createWidget(menu,0,modeWidget);
+framework.createWidget(menu,0,aiWidget);		
+framework.createWidget(menu,0,new MenuText());
+framework.createWidget(menu,0,chatWidget);
+
+if (settings.getRecords(settings.circuit)!=null) {
+	TrackRecord record=settings.getRecords(settings.circuit)[0];
+	recordWidget.setValue(Utils.timeFormat(record.getLaptime())+" ("+record.getDriverName()+")");
+}
+
+table.addRow(new String[]{settings.name,settings.car,ConnectionManager.getLocalIP(),Ferrari3D.VERSION});
+for (Connection i : Multiplayer.getInstance().getConnectionManager().getConnections()) {
+	table.addRow(new String[]{i.getMeta("id"),i.getMeta("car"),i.getMeta("ip"),i.getMeta("version")});
+}
