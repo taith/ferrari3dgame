@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<project name="Ferrari3D" default="build" basedir=".">
+<project name="Ferrari3D (Google Code)" default="build" basedir=".">
 	<property name="build.dir" value="build" />
 	<property name="source.dir" value="source" />
 	<property name="binaries.dir" value="binaries" />
 	<property name="libraries.dir" value="libraries" />
 	<property name="jar.name" value="${build.dir}/ferrari3d.jar" />
-	<property name="jar.libdir" value="libraries" />
-	<property name="jar.mainclass" value="com.dennisbijlsma.ferrari3d.Ferrari3D" />
 	
 	<path id="classpath">
 		<fileset dir="${build.dir}/${libraries.dir}" includes="**/*.jar" />
@@ -29,13 +27,13 @@
 			<path refid="classpath" />
 			<chainedmapper>
 				<flattenmapper />
-				<globmapper from="*.jar" to="${jar.libdir}/*.jar" />
+				<globmapper from="*.jar" to="${libraries.dir}/*.jar" />
 			</chainedmapper>
 		</pathconvert>
 		<jar jarfile="${jar.name}" basedir="${binaries.dir}">			
 			<manifest>
 				<attribute name="Manifest-Version" value="1.0" />
-				<attribute name="Main-Class" value="${jar.mainclass}" />
+				<attribute name="Main-Class" value="com.dennisbijlsma.ferrari3d.Ferrari3D" />
 				<attribute name="Class-Path" value="${jar.classpath}" />
 			</manifest>
 		</jar>
