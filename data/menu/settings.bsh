@@ -25,7 +25,8 @@ var cameraWidget=new MenuOption(settings.getText("menu.settings.camera"),setting
 var satWidget=new MenuOption(settings.getText("menu.settings.showsat"),settings,"showSAT","boolean");		
 var radarWidget=new MenuOption(settings.getText("menu.settings.showradar"),settings,"showRadar","boolean");		
 var framerateWidget=new MenuOption(settings.getText("menu.settings.showframerate"),settings,"showFramerate","boolean");		
-var indicatorWidget=new MenuOption(settings.getText("menu.settings.indicators"),settings,"indicators","boolean");				
+var indicatorWidget=new MenuOption(settings.getText("menu.settings.indicators"),settings,"indicators","boolean");
+var debugWidget=new MenuOption(settings.getText("menu.settings.debugmode"),settings,"debug","boolean");				
 var rendererWidget=new MenuOption(settings.getText("menu.settings.renderer"),"jMonkeyEngine",0);			
 var fullscreenWidget=new MenuOption(settings.getText("menu.settings.fullscreen"),settings,"fullscreen","boolean");
 var resolutionWidget=new MenuOption(settings.getText("menu.settings.resolution"),settings.resolution.width+"x"+settings.resolution.height,2);
@@ -35,12 +36,12 @@ var autogearsWidget=new MenuOption(settings.getText("menu.settings.autogears"),s
 var autoreverseWidget=new MenuOption(settings.getText("menu.settings.autoreverse"),settings,"autoReverse","boolean");
 
 MenuText controlsText=new MenuText(550,500);		
-controlsText.paintText("Accelerate: "+Utils.titleFormat(settings.getControlSet()[0]),0,20,'l');
-controlsText.paintText("Brake: "+Utils.titleFormat(settings.getControlSet()[1]),0,40,'l');
-controlsText.paintText("Steer left: "+Utils.titleFormat(settings.getControlSet()[2]),0,60,'l');
-controlsText.paintText("Steer right: "+Utils.titleFormat(settings.getControlSet()[3]),0,80,'l');
-controlsText.paintText("Gear up: "+Utils.titleFormat(settings.getControlSet()[4]),0,100,'l');
-controlsText.paintText("Gear down: "+Utils.titleFormat(settings.getControlSet()[5]),0,120,'l');
+controlsText.paintText("Accelerate: "+settings.getControlSet()[0],0,20,'l');
+controlsText.paintText("Brake: "+settings.getControlSet()[1],0,40,'l');
+controlsText.paintText("Steer left: "+settings.getControlSet()[2],0,60,'l');
+controlsText.paintText("Steer right: "+settings.getControlSet()[3],0,80,'l');
+controlsText.paintText("Gear up: "+settings.getControlSet()[4],0,100,'l');
+controlsText.paintText("Gear down: "+settings.getControlSet()[5],0,120,'l');
 controlsText.paintText("End session: Escape",300,20,'l');
 controlsText.paintText("Pause: P",300,40,'l');
 controlsText.paintText("Change camera: 1-5",300,60,'l');
@@ -58,6 +59,7 @@ framework.createWidget(menu,0,satWidget);
 framework.createWidget(menu,0,radarWidget);
 framework.createWidget(menu,0,framerateWidget);
 framework.createWidget(menu,0,indicatorWidget);
+framework.createWidget(menu,0,debugWidget);
 framework.createWidget(menu,1,rendererWidget);
 framework.createWidget(menu,1,fullscreenWidget);
 framework.createWidget(menu,1,resolutionWidget);

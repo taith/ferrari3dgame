@@ -1,28 +1,32 @@
-# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
-# File Created: 02.08.2008 10:39:56
-
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__43 (2) to come 
+#
 newmtl Grandstand_Concrete
-	Ns 0.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.78431 0.78431 0.78431
-	Kd 0.78431 0.78431 0.78431
-	Ks 0.00000 0.00000 0.00000
-	Ke 0.00000 0.00000 0.00000
-
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
 newmtl Grandstand_Crowd
-	Ns 0.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.78431 0.78431 0.78431
-	Kd 0.78431 0.78431 0.78431
-	Ks 0.00000 0.00000 0.00000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka crowd.jpg
-	map_Kd crowd.jpg
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd crowd.jpg
+#
+# Multi/Sub Material__43 done 
+#
+newmtl Grandstand_Concrete
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# EOF

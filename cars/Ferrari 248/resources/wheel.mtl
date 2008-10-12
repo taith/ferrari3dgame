@@ -1,40 +1,32 @@
-# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
-# File Created: 10.08.2008 09:53:54
-
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__61 (3) to come 
+#
 newmtl Rubber
-	Ns 25.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.09804 0.09804 0.09804
-	Kd 0.09804 0.09804 0.09804
-	Ks 0.45000 0.45000 0.45000
-	Ke 0.00000 0.00000 0.00000
-
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
 newmtl Zilver
-	Ns 20.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.78431 0.78431 0.78431
-	Kd 0.78431 0.78431 0.78431
-	Ks 0.45000 0.45000 0.45000
-	Ke 0.00000 0.00000 0.00000
-
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
 newmtl Band
-	Ns 25.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.09804 0.09804 0.09804
-	Kd 0.09804 0.09804 0.09804
-	Ks 0.45000 0.45000 0.45000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka tyre.jpg
-	map_Kd tyre.jpg
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.0
+illum 2
+map_Kd tyre.jpg
+#
+# Multi/Sub Material__61 done 
+#
+# EOF
