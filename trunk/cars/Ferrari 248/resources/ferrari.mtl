@@ -1,38 +1,95 @@
-# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
-# File Created: 09.08.2008 12:06:32
-
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__153 (2) to come 
+#
 newmtl Wit
-	Ns 19.999998
-	Ni 1.500000
-	d 1.000000
-	Tr 1.000000
-	Tf 1.000000 1.000000 1.000000 
-	illum 2
-	Ka 1.000000 1.000000 1.000000
-	Kd 1.000000 1.000000 1.000000
-	Ks 0.450000 0.450000 0.450000
-	Ke 0.000000 0.000000 0.000000
-
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
 newmtl Rood
-	Ns 19.999998
-	Ni 1.500000
-	d 1.000000
-	Tr 1.000000
-	Tf 1.000000 1.000000 1.000000 
-	illum 2
-	Ka 1.000000 0.039216 0.000000
-	Kd 1.000000 0.039216 0.000000
-	Ks 0.450000 0.450000 0.450000
-	Ke 0.000000 0.000000 0.000000
-
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+# Multi/Sub Material__153 done 
+#
+# Multi/Sub Material__164 (2) to come 
+#
+newmtl Wit
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl Rood
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+# Multi/Sub Material__164 done 
+#
+# Multi/Sub Material__186 (3) to come 
+#
+newmtl Rood
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl Wit
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
 newmtl Zwart
-	Ns 19.999998
-	Ni 1.500000
-	d 1.000000
-	Tr 1.000000
-	Tf 1.000000 1.000000 1.000000 
-	illum 2
-	Ka 0.039216 0.039216 0.039216
-	Kd 0.039216 0.039216 0.039216
-	Ks 0.450000 0.450000 0.450000
-	Ke 0.000000 0.000000 0.000000
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+# Multi/Sub Material__186 done 
+#
+newmtl Rood
+Ka  1.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl Wit
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+newmtl Zwart
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.0
+illum 2
+#
+# EOF

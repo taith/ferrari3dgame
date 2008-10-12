@@ -2,8 +2,8 @@
 <Ferrari3D>
 	<meta>
 		<author>Ferrari3D</author>
-		<date>26-07-2008</date>
-		<version>2.2</version>
+		<date>28-09-2008</date>
+		<version>2.3</version>
 		<preview>preview.jpg</preview>
 	</meta>
 	<carData>
@@ -16,139 +16,139 @@
 		<points>
 			<point>
 				<point>0.0,42.3</point>
-				<intermediate>false</intermediate>
 				<speed>100.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-1.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-1.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-2.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-2.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-3.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-3.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-4.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-4.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-5.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-5.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-6.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-6.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-7.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-7.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-8.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-8.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-9.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-9.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-10.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-10.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-11.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-11.1,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-12.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-12.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-13.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-13.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-14.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-14.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-15.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-15.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-16.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-16.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-17.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-17.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-18.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-18.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-19.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-19.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-20.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-20.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-21.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-21.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-22.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-22.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-23.0,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-23.0,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-24.0,42.2</point>
-				<intermediate>false</intermediate>
 				<altPoint>-24.0,41.900005</altPoint>
 				<speed>10.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-24.900003,42.100002</point>
-				<intermediate>false</intermediate>
 				<altPoint>-24.900003,41.800007</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-25.600006,41.70001</point>
-				<intermediate>false</intermediate>
 				<altPoint>-25.600006,41.50001</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-26.100008,41.00002</point>
@@ -160,8 +160,8 @@
 			</point>
 			<point>
 				<point>-26.80001,39.800037</point>
-				<intermediate>false</intermediate>
 				<speed>5.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-27.200012,39.200047</point>
@@ -177,8 +177,8 @@
 			</point>
 			<point>
 				<point>-29.600021,38.40006</point>
-				<intermediate>false</intermediate>
 				<speed>10.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-30.400024,38.600056</point>
@@ -190,78 +190,78 @@
 			</point>
 			<point>
 				<point>-31.80003,39.100048</point>
-				<intermediate>false</intermediate>
 				<altPoint>-31.80003,39.70004</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-32.60002,39.400043</point>
-				<intermediate>false</intermediate>
 				<altPoint>-32.60002,40.000034</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-33.40001,39.800037</point>
-				<intermediate>false</intermediate>
 				<altPoint>-33.40001,40.30003</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-34.399994,40.20003</point>
-				<intermediate>false</intermediate>
 				<altPoint>-34.399994,40.600025</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-35.29998,40.500027</point>
-				<intermediate>false</intermediate>
 				<altPoint>-35.29998,40.90002</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-36.299965,40.800022</point>
-				<intermediate>false</intermediate>
 				<altPoint>-36.299965,41.200016</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-37.29995,41.00002</point>
-				<intermediate>false</intermediate>
 				<altPoint>-37.29995,41.50001</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-38.59993,41.300014</point>
-				<intermediate>false</intermediate>
 				<altPoint>-38.59993,41.800007</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-39.699913,41.60001</point>
-				<intermediate>false</intermediate>
 				<altPoint>-39.699913,42.100002</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-40.799896,41.800007</point>
-				<intermediate>false</intermediate>
 				<altPoint>-40.799896,42.3</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-42.099876,42.000004</point>
-				<intermediate>false</intermediate>
 				<altPoint>-42.099876,42.499996</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-43.29986,42.100002</point>
-				<intermediate>false</intermediate>
 				<altPoint>-43.29986,42.499996</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-44.59984,42.2</point>
-				<intermediate>false</intermediate>
 				<altPoint>-44.59984,42.599995</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-45.69982,42.2</point>
-				<intermediate>false</intermediate>
 				<altPoint>-45.69982,42.599995</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-46.899803,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>-46.899803,42.599995</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-48.099785,42.3</point>
@@ -321,8 +321,8 @@
 			</point>
 			<point>
 				<point>-62.19957,41.00002</point>
-				<intermediate>false</intermediate>
 				<speed>37.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-63.099556,40.500027</point>
@@ -350,8 +350,8 @@
 			</point>
 			<point>
 				<point>-67.99948,37.60007</point>
-				<intermediate>false</intermediate>
 				<speed>45.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-68.79947,37.00008</point>
@@ -475,124 +475,124 @@
 			</point>
 			<point>
 				<point>-81.29928,9.100069</point>
-				<intermediate>false</intermediate>
 				<altPoint>-81.79927,9.100069</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-81.39928,8.100065</point>
-				<intermediate>false</intermediate>
 				<altPoint>-81.99927,8.100065</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-81.59927,7.1000657</point>
-				<intermediate>false</intermediate>
 				<altPoint>-82.199265,7.1000657</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-81.69927,6.2000666</point>
-				<intermediate>false</intermediate>
 				<altPoint>-82.29926,6.2000666</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-81.89927,5.2000675</point>
-				<intermediate>false</intermediate>
 				<altPoint>-82.49926,5.2000675</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-82.099266,4.0000687</point>
-				<intermediate>false</intermediate>
 				<altPoint>-82.69926,4.0000687</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-82.39926,2.9000697</point>
-				<intermediate>false</intermediate>
 				<altPoint>-82.899254,2.9000697</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-82.59926,1.7000705</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.09925,1.7000705</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-82.799255,0.5000702</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.39925,0.5000702</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-82.99925,-0.5999298</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.499245,-0.59992975</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.09925,-1.79993</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.69924,-1.79993</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.29925,-2.8999293</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.89924,-2.8999293</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.39925,-4.0999284</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.99924,-4.0999284</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.59924,-5.299927</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.29923,-5.299927</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.69924,-6.499926</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.39923,-6.499926</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.89924,-7.799925</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.59923,-7.799925</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.99924,-8.999928</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.69923,-8.999928</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.099236,-10.099933</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.69923,-10.099933</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.199234,-11.0999365</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.799225,-11.0999365</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.29923,-12.09994</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.89922,-12.09994</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.39923,-13.099944</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.99922,-13.099944</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.59923,-14.199948</point>
-				<intermediate>false</intermediate>
 				<altPoint>-85.09922,-14.199948</altPoint>
 				<speed>17.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.89922,-15.099952</point>
-				<intermediate>false</intermediate>
 				<altPoint>-85.399216,-15.099952</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-85.29922,-15.899955</point>
-				<intermediate>false</intermediate>
 				<altPoint>-85.59921,-15.899955</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-85.79921,-16.599957</point>
@@ -612,8 +612,8 @@
 			</point>
 			<point>
 				<point>-88.59917,-18.899965</point>
-				<intermediate>false</intermediate>
 				<speed>20.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-89.19916,-19.499968</point>
@@ -637,8 +637,8 @@
 			</point>
 			<point>
 				<point>-91.09913,-22.79998</point>
-				<intermediate>false</intermediate>
 				<speed>25.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-91.299126,-23.699984</point>
@@ -674,64 +674,64 @@
 			</point>
 			<point>
 				<point>-94.39908,-31.800014</point>
-				<intermediate>false</intermediate>
 				<altPoint>-93.79909,-31.800014</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-94.79907,-32.9</point>
-				<intermediate>false</intermediate>
 				<altPoint>-94.19908,-32.9</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-95.199066,-33.799988</point>
-				<intermediate>true</intermediate>
 				<altPoint>-94.49908,-33.799988</altPoint>
+				<intermediate>true</intermediate>
 			</point>
 			<point>
 				<point>-95.59906,-34.799973</point>
-				<intermediate>false</intermediate>
 				<altPoint>-94.99907,-34.799973</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-95.999054,-35.59996</point>
-				<intermediate>false</intermediate>
 				<altPoint>-95.39906,-35.59996</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-96.39905,-36.599945</point>
-				<intermediate>false</intermediate>
 				<altPoint>-95.79906,-36.599945</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-96.89904,-37.899925</point>
-				<intermediate>false</intermediate>
 				<altPoint>-96.29905,-37.899925</altPoint>
 				<speed>25.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-97.39903,-39.099907</point>
-				<intermediate>false</intermediate>
 				<altPoint>-96.79904,-39.099907</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-97.79903,-40.19989</point>
-				<intermediate>false</intermediate>
 				<altPoint>-97.199036,-40.19989</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-98.19902,-41.199875</point>
-				<intermediate>false</intermediate>
 				<altPoint>-97.69903,-41.199875</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-98.39902,-42.09986</point>
-				<intermediate>false</intermediate>
 				<altPoint>-97.99902,-42.09986</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-98.599014,-42.999847</point>
-				<intermediate>false</intermediate>
 				<altPoint>-98.19902,-42.999847</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-98.69901,-43.899834</point>
@@ -739,8 +739,8 @@
 			</point>
 			<point>
 				<point>-98.599014,-44.69982</point>
-				<intermediate>false</intermediate>
 				<speed>15.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-98.499016,-45.49981</point>
@@ -760,8 +760,8 @@
 			</point>
 			<point>
 				<point>-96.69904,-48.899757</point>
-				<intermediate>false</intermediate>
 				<speed>15.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-96.09905,-49.49975</point>
@@ -781,8 +781,8 @@
 			</point>
 			<point>
 				<point>-93.49909,-50.899727</point>
-				<intermediate>false</intermediate>
 				<speed>15.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-92.699104,-51.099724</point>
@@ -814,59 +814,59 @@
 			</point>
 			<point>
 				<point>-85.69921,-52.499702</point>
-				<intermediate>false</intermediate>
 				<altPoint>-85.69921,-52.09971</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-84.69923,-52.6997</point>
-				<intermediate>false</intermediate>
 				<altPoint>-84.69923,-52.199707</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-83.69924,-52.899696</point>
-				<intermediate>false</intermediate>
 				<altPoint>-83.69924,-52.499702</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-82.69926,-53.099693</point>
-				<intermediate>false</intermediate>
 				<altPoint>-82.69926,-52.6997</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-81.69927,-53.29969</point>
-				<intermediate>false</intermediate>
 				<altPoint>-81.69927,-52.899696</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-80.69929,-53.499687</point>
-				<intermediate>false</intermediate>
 				<altPoint>-80.69929,-53.099693</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-79.6993,-53.699684</point>
-				<intermediate>false</intermediate>
 				<altPoint>-79.6993,-53.29969</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-78.59932,-53.89968</point>
-				<intermediate>false</intermediate>
 				<altPoint>-78.59932,-53.499687</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-77.49934,-54.099678</point>
-				<intermediate>false</intermediate>
 				<altPoint>-77.49934,-53.699684</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-76.39935,-54.299675</point>
-				<intermediate>false</intermediate>
 				<altPoint>-76.39935,-53.89968</altPoint>
 				<speed>22.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-75.39937,-54.299675</point>
-				<intermediate>false</intermediate>
 				<altPoint>-75.39937,-53.99968</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-74.49938,-54.299675</point>
@@ -878,8 +878,8 @@
 			</point>
 			<point>
 				<point>-72.49941,-53.89968</point>
-				<intermediate>false</intermediate>
 				<speed>30.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-71.49943,-53.499687</point>
@@ -899,8 +899,8 @@
 			</point>
 			<point>
 				<point>-68.399475,-51.199722</point>
-				<intermediate>false</intermediate>
 				<speed>40.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-67.799484,-50.399734</point>
@@ -1132,149 +1132,149 @@
 			</point>
 			<point>
 				<point>-32.10003,-6.299926</point>
-				<intermediate>false</intermediate>
 				<altPoint>-32.10003,-6.999925</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-31.400028,-5.5999265</point>
-				<intermediate>false</intermediate>
 				<altPoint>-31.400028,-6.299926</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-30.600025,-4.899927</point>
-				<intermediate>false</intermediate>
 				<altPoint>-30.600025,-5.5999265</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-29.900023,-4.199928</point>
-				<intermediate>false</intermediate>
 				<altPoint>-29.900023,-4.899927</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-29.20002,-3.4999285</point>
-				<intermediate>false</intermediate>
 				<altPoint>-29.20002,-4.2999277</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-28.600018,-2.899929</point>
-				<intermediate>false</intermediate>
 				<altPoint>-28.600018,-3.6999283</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-27.900015,-2.1999297</point>
-				<intermediate>false</intermediate>
 				<altPoint>-27.900015,-2.999929</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-27.100012,-1.4999297</point>
-				<intermediate>false</intermediate>
 				<altPoint>-27.100012,-2.2999296</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-26.300009,-0.6999295</point>
-				<intermediate>false</intermediate>
 				<altPoint>-26.300009,-1.5999297</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-25.500006,7.0527196E-5</point>
-				<intermediate>false</intermediate>
 				<altPoint>-25.500006,-0.8999295</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-24.800003,0.70007056</point>
-				<intermediate>false</intermediate>
 				<altPoint>-24.800003,-0.19992948</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-24.0,1.4000707</point>
-				<intermediate>false</intermediate>
 				<altPoint>-24.0,0.50007045</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-23.299997,2.1000707</point>
-				<intermediate>false</intermediate>
 				<altPoint>-23.299997,1.0000706</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-22.499994,2.80007</point>
-				<intermediate>false</intermediate>
 				<altPoint>-22.499994,1.9000708</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-21.799992,3.5000694</point>
-				<intermediate>false</intermediate>
 				<altPoint>-21.799992,2.5000703</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-21.099989,4.100069</point>
-				<intermediate>false</intermediate>
 				<altPoint>-21.099989,3.10007</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-20.399986,4.7000685</point>
-				<intermediate>false</intermediate>
 				<altPoint>-20.399986,3.8000693</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-19.799984,5.300068</point>
-				<intermediate>false</intermediate>
 				<altPoint>-19.799984,4.4000688</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-19.099981,6.000067</point>
-				<intermediate>false</intermediate>
 				<altPoint>-19.099981,5.100068</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-18.299978,6.7000666</point>
-				<intermediate>false</intermediate>
 				<altPoint>-18.299978,5.6000676</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-17.599976,7.300066</point>
-				<intermediate>false</intermediate>
 				<altPoint>-17.599976,6.400067</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-16.799973,8.000066</point>
-				<intermediate>false</intermediate>
 				<altPoint>-16.799973,7.1000667</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-16.09997,8.700068</point>
-				<intermediate>false</intermediate>
 				<altPoint>-16.09997,7.700066</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-15.299967,9.400071</point>
-				<intermediate>false</intermediate>
 				<altPoint>-15.399967,8.400067</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-14.599964,10.100074</point>
-				<intermediate>false</intermediate>
 				<altPoint>-14.599964,9.10007</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-13.899961,10.700076</point>
-				<intermediate>false</intermediate>
 				<altPoint>-13.799961,9.900073</altPoint>
 				<speed>27.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-13.099958,11.300078</point>
-				<intermediate>false</intermediate>
 				<altPoint>-12.899958,10.700076</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-12.099955,11.80008</point>
-				<intermediate>false</intermediate>
 				<altPoint>-12.099955,11.300078</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-11.099951,12.200082</point>
-				<intermediate>false</intermediate>
 				<altPoint>-11.199951,11.70008</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-10.099947,12.500083</point>
@@ -1294,8 +1294,8 @@
 			</point>
 			<point>
 				<point>-5.6999416,13.100085</point>
-				<intermediate>false</intermediate>
 				<speed>30.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>-4.499943,13.200086</point>
@@ -1327,8 +1327,8 @@
 			</point>
 			<point>
 				<point>2.9000547,15.500094</point>
-				<intermediate>false</intermediate>
 				<speed>40.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>3.9000537,15.900096</point>
@@ -1360,8 +1360,8 @@
 			</point>
 			<point>
 				<point>12.700068,18.500105</point>
-				<intermediate>false</intermediate>
 				<speed>60.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>14.100074,18.600105</point>
@@ -1517,144 +1517,144 @@
 			</point>
 			<point>
 				<point>57.499752,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>57.499752,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>58.699734,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>58.699734,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>59.899715,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>59.899715,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>61.099697,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>61.099697,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>62.29968,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>62.29968,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>63.59966,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>63.59966,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>64.99964,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>64.99964,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>66.19962,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>66.19962,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>67.399605,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>67.399605,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>68.59959,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>68.59959,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>69.79957,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>69.79957,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>71.09955,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>71.09955,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>72.39953,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>72.39953,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>73.69951,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>73.69951,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>74.69949,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>74.69949,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>75.69948,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>75.69948,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>76.79946,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>76.79946,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>77.899445,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>77.899445,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>78.99943,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>78.99943,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>80.09941,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>80.09941,19.100107</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>81.099396,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>81.099396,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>82.19938,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>82.19938,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>83.29936,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>83.29936,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>84.399345,18.500105</point>
-				<intermediate>false</intermediate>
 				<altPoint>84.399345,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>85.49933,18.600105</point>
-				<intermediate>false</intermediate>
 				<altPoint>85.49933,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>86.59931,18.600105</point>
-				<intermediate>false</intermediate>
 				<altPoint>86.59931,19.200108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>87.5993,18.700106</point>
-				<intermediate>false</intermediate>
 				<altPoint>87.5993,19.300108</altPoint>
 				<speed>20.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>88.59928,18.900106</point>
-				<intermediate>false</intermediate>
 				<altPoint>88.59928,19.400108</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>89.599266,19.300108</point>
@@ -1682,8 +1682,8 @@
 			</point>
 			<point>
 				<point>94.79919,23.300123</point>
-				<intermediate>false</intermediate>
 				<speed>13.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>95.19918,24.300127</point>
@@ -1703,8 +1703,8 @@
 			</point>
 			<point>
 				<point>95.499176,28.700144</point>
-				<intermediate>false</intermediate>
 				<speed>13.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>95.09918,29.600147</point>
@@ -1724,8 +1724,8 @@
 			</point>
 			<point>
 				<point>93.49921,32.700146</point>
-				<intermediate>false</intermediate>
 				<speed>15.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>92.899216,33.500134</point>
@@ -1753,8 +1753,8 @@
 			</point>
 			<point>
 				<point>88.399284,37.500072</point>
-				<intermediate>false</intermediate>
 				<speed>25.0</speed>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>87.3993,38.100063</point>
@@ -1918,218 +1918,218 @@
 			</point>
 			<point>
 				<point>41.200005,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>41.200005,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>40.000023,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>40.000023,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>39.100037,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>39.100037,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>38.000053,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>38.000053,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>37.100067,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>37.100067,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>36.20008,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>36.20008,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>35.200096,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>35.200096,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>34.20011,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>34.20011,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>33.200127,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>33.200127,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>32.30014,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>32.30014,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>31.300142,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>31.300142,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>30.200138,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>30.200138,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>29.200134,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>29.200134,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>28.30013,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>28.30013,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>27.500128,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>27.500128,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>26.600124,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>26.600124,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>25.900122,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>25.900122,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>25.100119,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>25.100119,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>24.300116,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>24.300116,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>23.400112,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>23.400112,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>22.60011,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>22.60011,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>21.800106,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>21.800106,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>21.000103,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>21.000103,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>20.1001,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>20.1001,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>19.200096,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>19.200096,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>18.300093,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>18.300093,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>17.40009,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>17.40009,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>16.300085,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>16.300085,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>15.300081,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>15.300081,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>14.300077,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>14.300077,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>13.300074,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>13.300074,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>12.40007,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>12.40007,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>11.200066,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>11.200066,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>10.100061,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>10.100061,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>9.200058,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>9.200058,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>8.200054,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>8.200054,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>7.200054,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>7.200054,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>6.400055,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>6.400055,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>5.500056,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>5.500056,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>4.5000567,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>4.5000567,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>3.5000577,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>3.5000577,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>2.200059,42.3</point>
-				<intermediate>false</intermediate>
 				<altPoint>2.200059,41.900005</altPoint>
+				<intermediate>false</intermediate>
 			</point>
 			<point>
 				<point>1.1000589,42.3</point>
-				<intermediate>true</intermediate>
 				<altPoint>1.1000589,41.900005</altPoint>
+				<intermediate>true</intermediate>
 			</point>
 		</points>
 		<startgrid>
@@ -2188,240 +2188,180 @@
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>1.0</scale>
 			<url>monza.obj</url>
-			<material>none,100,none,false,none,none,true</material>
-			<shader>none</shader>
 		</node>
 		<node id="hangover_1" type="model">
 			<position>46.0,0.0,19.0</position>
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>1.0</scale>
 			<url>hangover_1.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="hangover_2" type="model">
 			<position>-84.0,0.0,-7.5</position>
 			<rotation>0.0,1.5799999,0.0</rotation>
 			<scale>1.0</scale>
 			<url>hangover_1.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="hangover_3" type="model">
 			<position>69.5,0.0,19.0</position>
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>1.0</scale>
 			<url>hangover_2.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="hangover_4" type="model">
 			<position>-27.5,0.0,-2.5</position>
 			<rotation>0.0,2.27,0.0</rotation>
 			<scale>1.0</scale>
 			<url>hangover_2.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="signs_1" type="model">
 			<position>-24.0,0.0,42.800003</position>
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>0.2</scale>
 			<url>signs.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="signs_2" type="model">
 			<position>-86.40007,0.0,-16.999992</position>
 			<rotation>0.0,4.829996,0.0</rotation>
 			<scale>0.2</scale>
 			<url>signs.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="signs_3" type="model">
 			<position>-13.4,0.0,12.599998</position>
 			<rotation>0.0,2.3899999,0.0</rotation>
 			<scale>0.2</scale>
 			<url>signs.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="signs_4" type="model">
 			<position>90.39989,0.0,17.600006</position>
 			<rotation>0.0,-3.1399992,0.0</rotation>
 			<scale>0.2</scale>
 			<url>signs.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_1" type="model">
 			<position>0.0,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_2" type="model">
 			<position>4.000002,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_3" type="model">
 			<position>-4.000002,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_4" type="model">
 			<position>8.0,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_5" type="model">
 			<position>12.0,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_6" type="model">
 			<position>15.999999,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_7" type="model">
 			<position>19.999992,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_8" type="model">
 			<position>24.000008,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_9" type="model">
 			<position>27.999992,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_10" type="model">
 			<position>31.999992,0.0,44.0</position>
 			<rotation>0.0,-1.57,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_11" type="model">
 			<position>-80.999985,0.0,-30.800003</position>
 			<rotation>0.0,0.75,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_12" type="model">
 			<position>-76.999985,0.0,-26.599995</position>
 			<rotation>0.0,0.79999995,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_13" type="model">
 			<position>-0.8,0.0,21.199999</position>
 			<rotation>0.0,-1.6000003,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="grandstand_14" type="model">
 			<position>4.2,0.0,21.399996</position>
 			<rotation>0.0,-1.6000003,0.0</rotation>
 			<scale>1.0</scale>
 			<url>grandstand.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_1" type="model">
 			<position>-28.2,0.0,39.800014</position>
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_2" type="model">
 			<position>-28.0,0.0,40.400017</position>
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_3" type="model">
 			<position>-27.8,0.0,41.00002</position>
 			<rotation>0.0,0.0,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_4" type="model">
 			<position>-87.20003,0.0,-16.39999</position>
 			<rotation>0.0,1.5800002,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_5" type="model">
 			<position>-87.79997,0.0,-16.599995</position>
 			<rotation>0.0,-1.6000001,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_6" type="model">
 			<position>-9.999993,0.0,11.200014</position>
 			<rotation>0.0,2.6299994,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 		<node id="block_7" type="model">
 			<position>6.5999985,0.0,15.800015</position>
 			<rotation>0.0,-0.28,0.0</rotation>
 			<scale>0.5</scale>
 			<url>block.obj</url>
-			<material>none</material>
-			<shader>none</shader>
 		</node>
 	</scenegraph>
 </Ferrari3D>

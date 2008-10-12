@@ -1,138 +1,103 @@
-# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
-# File Created: 10.08.2008 09:53:12
-
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
 newmtl Curbstone
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.88235 0.88235 0.88235
-	Kd 0.88235 0.88235 0.88235
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka curb_t.jpg
-	map_Kd curb_t.jpg
-
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd curb_t.jpg
+#
+# Multi/Sub Material__32 (2) to come 
+#
 newmtl Grass
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.00000 0.82353 0.00000
-	Kd 0.00000 0.82353 0.00000
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka grass.jpg
-	map_Kd grass.jpg
-
+Ka  0.0 0.8 0.0
+Kd  0.0 0.8 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd grass.jpg
+#
 newmtl Gravel
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.78431 0.78431 0.58824
-	Kd 0.78431 0.78431 0.58824
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka gravel.jpg
-	map_Kd gravel.jpg
-
+Ka  0.8 0.8 0.6
+Kd  0.8 0.8 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd gravel.jpg
+#
+# Multi/Sub Material__32 done 
+#
 newmtl Green
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.58824 1.00000 0.58824
-	Kd 0.58824 1.00000 0.58824
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka tarmac_green.jpg
-	map_Kd tarmac_green.jpg
-
+Ka  0.6 1.0 0.6
+Kd  0.6 1.0 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd tarmac_green.jpg
+#
 newmtl Tarmac
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.78431 0.78431 0.78431
-	Kd 0.78431 0.78431 0.78431
-	Ks 0.10000 0.10000 0.10000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka tarmac.jpg
-	map_Kd tarmac.jpg
-
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  1.0
+illum 2
+#
 newmtl White
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 1.00000 1.00000 1.00000
-	Kd 1.00000 1.00000 1.00000
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+#
 newmtl Trees
-	Ns 11.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.00000 0.68627 0.00000
-	Kd 0.00000 0.68627 0.00000
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka trees_t.png
-	map_Kd trees_t.png
-
+Ka  0.0 0.6 0.0
+Kd  0.0 0.6 0.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd trees_t.png
+#
 newmtl Barrier
-	Ns 0.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.78431 0.78431 0.78431
-	Kd 0.78431 0.78431 0.78431
-	Ks 0.00000 0.00000 0.00000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka barrier.jpg
-	map_Kd barrier.jpg
-
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd barrier.jpg
+#
 newmtl Fence
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.60000 0.60000 0.60000
-	Kd 0.60000 0.60000 0.60000
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
-	map_Ka fence.png
-	map_Kd fence.png
-
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+map_Kd fence.png
+#
 newmtl Pitwall
-	Ns 10.00000
-	Ni 1.50000
-	d 1.00000
-	Tr 1.00000
-	Tf 1.00000 1.00000 1.00000 
-	illum 2
-	Ka 0.00000 0.00000 0.58824
-	Kd 0.00000 0.00000 0.58824
-	Ks 0.09000 0.09000 0.09000
-	Ke 0.00000 0.00000 0.00000
+Ka  0.0 0.0 0.6
+Kd  0.0 0.0 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  1.0
+illum 2
+#
+newmtl Tarmac
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.7 0.7 0.7
+d  1.0
+Ns  0.0
+illum 2
+map_Kd tarmac.jpg
+#
+# EOF
