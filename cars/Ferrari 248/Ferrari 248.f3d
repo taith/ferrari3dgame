@@ -25,11 +25,9 @@
 			<engineBHP>850</engineBHP>
 			<mass>600</mass>
 			<roll>28</roll>
-			<gripDecrement>1.5</gripDecrement>
-			<steering>0.08</steering>
+			<steering>0.1</steering>
 			<resistance>0.00065</resistance>
 			<gearRatio>8</gearRatio>
-			<gripIncrement>2.5</gripIncrement>
 			<brakes>1200</brakes>
 			<gearStart>30</gearStart>
 		</carInfo>
