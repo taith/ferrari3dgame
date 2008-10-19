@@ -2,7 +2,7 @@
 <Ferrari3D>
 	<meta>
 		<author>Ferrari3D</author>
-		<date>28-09-2008</date>
+		<date>19-10-2008</date>
 		<version>2.3</version>
 		<preview>preview.jpg</preview>
 	</meta>
@@ -219,174 +219,174 @@
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-37.29995,41.00002</point>
+				<point>-37.29995,41.100018</point>
 				<altPoint>-37.29995,41.50001</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-38.59993,41.300014</point>
+				<point>-38.59993,41.50001</point>
 				<altPoint>-38.59993,41.800007</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-39.699913,41.60001</point>
+				<point>-39.699913,41.800007</point>
 				<altPoint>-39.699913,42.100002</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-40.799896,41.800007</point>
+				<point>-40.799896,42.100002</point>
 				<altPoint>-40.799896,42.3</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-42.099876,42.000004</point>
+				<point>-42.099876,42.3</point>
 				<altPoint>-42.099876,42.499996</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-43.29986,42.100002</point>
+				<point>-43.29986,42.399998</point>
 				<altPoint>-43.29986,42.499996</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-44.59984,42.2</point>
+				<point>-44.59984,42.499996</point>
 				<altPoint>-44.59984,42.599995</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-45.69982,42.2</point>
+				<point>-45.69982,42.499996</point>
 				<altPoint>-45.69982,42.599995</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-46.899803,42.3</point>
+				<point>-46.899803,42.599995</point>
 				<altPoint>-46.899803,42.599995</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-48.099785,42.3</point>
+				<point>-48.099785,42.599995</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-49.199768,42.3</point>
+				<point>-49.199768,42.599995</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-50.39975,42.3</point>
+				<point>-50.39975,42.599995</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-51.59973,42.3</point>
+				<point>-51.59973,42.599995</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-52.799713,42.2</point>
+				<point>-52.799713,42.599995</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-53.899696,42.2</point>
+				<point>-53.899696,42.499996</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-54.99968,42.2</point>
+				<point>-54.99968,42.499996</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-55.999664,42.2</point>
+				<point>-55.999664,42.499996</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-56.89965,42.100002</point>
+				<point>-56.89965,42.3</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-57.799637,41.900005</point>
+				<point>-57.799637,42.100002</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-58.699623,41.70001</point>
+				<point>-58.699623,41.900005</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-59.59961,41.50001</point>
+				<point>-59.59961,41.70001</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-60.499596,41.300014</point>
+				<point>-60.499596,41.50001</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-61.49958,41.100018</point>
+				<point>-61.49958,41.300014</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-62.19957,41.00002</point>
+				<point>-62.19957,41.100018</point>
 				<speed>37.0</speed>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-63.099556,40.500027</point>
+				<point>-63.099556,40.700024</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-63.899544,40.100033</point>
+				<point>-63.899544,40.30003</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-64.69953,39.60004</point>
+				<point>-64.69953,39.800037</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-65.49952,39.100048</point>
+				<point>-65.49952,39.300045</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-66.19951,38.700054</point>
+				<point>-66.19951,38.90005</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-67.19949,38.100063</point>
+				<point>-67.19949,38.30006</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-67.99948,37.60007</point>
-				<speed>35.0</speed>
+				<point>-67.99948,37.900066</point>
+				<speed>40.0</speed>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-68.79947,37.00008</point>
+				<point>-68.79947,37.10008</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-69.59946,36.30009</point>
+				<point>-69.59946,36.40009</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-70.299446,35.6001</point>
+				<point>-70.299446,35.7001</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-70.999435,34.900112</point>
+				<point>-70.999435,35.00011</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-71.79942,34.100124</point>
+				<point>-71.79942,34.200123</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-72.49941,33.400135</point>
+				<point>-72.49941,33.500134</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-72.999405,32.600147</point>
+				<point>-72.999405,32.700146</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-73.4994,31.900156</point>
+				<point>-73.4994,32.000156</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-73.99939,31.100153</point>
+				<point>-74.09939,31.100153</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
@@ -514,72 +514,72 @@
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-82.799255,0.5000702</point>
+				<point>-82.899254,0.5000702</point>
 				<altPoint>-83.39925,0.5000702</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-82.99925,-0.5999298</point>
+				<point>-83.09925,-0.5999298</point>
 				<altPoint>-83.499245,-0.59992975</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.09925,-1.79993</point>
+				<point>-83.19925,-1.79993</point>
 				<altPoint>-83.69924,-1.79993</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.29925,-2.8999293</point>
+				<point>-83.39925,-2.8999293</point>
 				<altPoint>-83.89924,-2.8999293</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.39925,-4.0999284</point>
+				<point>-83.499245,-4.0999284</point>
 				<altPoint>-83.99924,-4.0999284</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.59924,-5.299927</point>
+				<point>-83.69924,-5.299927</point>
 				<altPoint>-84.29923,-5.299927</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.69924,-6.499926</point>
+				<point>-83.79924,-6.499926</point>
 				<altPoint>-84.39923,-6.499926</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.89924,-7.799925</point>
+				<point>-83.99924,-7.799925</point>
 				<altPoint>-84.59923,-7.799925</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-83.99924,-8.999928</point>
+				<point>-84.099236,-8.999928</point>
 				<altPoint>-84.69923,-8.999928</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-84.099236,-10.099933</point>
+				<point>-84.199234,-10.099933</point>
 				<altPoint>-84.69923,-10.099933</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-84.199234,-11.0999365</point>
+				<point>-84.29923,-11.0999365</point>
 				<altPoint>-84.799225,-11.0999365</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-84.29923,-12.09994</point>
+				<point>-84.39923,-12.09994</point>
 				<altPoint>-84.89922,-12.09994</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-84.39923,-13.099944</point>
+				<point>-84.49923,-13.099944</point>
 				<altPoint>-84.99922,-13.099944</altPoint>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-84.59923,-14.199948</point>
+				<point>-84.69923,-14.199948</point>
 				<altPoint>-85.09922,-14.199948</altPoint>
 				<speed>17.0</speed>
 				<intermediate>false</intermediate>
@@ -886,24 +886,24 @@
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-70.49944,-52.999695</point>
+				<point>-70.69944,-52.999695</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-69.79945,-52.299706</point>
+				<point>-69.99945,-52.299706</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-68.999466,-51.699715</point>
-				<intermediate>false</intermediate>
-			</point>
-			<point>
-				<point>-68.399475,-51.199722</point>
+				<point>-69.29946,-51.699715</point>
 				<speed>40.0</speed>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
-				<point>-67.799484,-50.399734</point>
+				<point>-68.49947,-50.999725</point>
+				<intermediate>false</intermediate>
+			</point>
+			<point>
+				<point>-67.699486,-50.199738</point>
 				<intermediate>false</intermediate>
 			</point>
 			<point>
