@@ -1,0 +1,36 @@
+var CAR_NAMES=settings.cars.toArray(new String[0]);
+var CIRCUIT_NAMES=settings.circuits.toArray(new String[0]);
+MODES=new String[] {null,"Time","Race"};
+AI_LEVELS=new String[] {null,"Easy","Normal","Hard"};
+
+// Setup menu
+
+menu.setTitle(settings.getText("menu.startsession.title"));
+
+framework.createPanel(menu,settings.getText("menu.startsession.title.driverandcar"));
+framework.createPanel(menu,settings.getText("menu.startsession.title.circuit"));
+
+// Add buttons
+
+framework.createButton(menu,settings.getText("menu.back"),'B',framework.MENU_MAIN);
+framework.createButton(menu,settings.getText("menu.start"),'S',framework.ACTION_START_SESSION);
+
+// Add widgets
+
+var nameWidget=new MenuOption(settings.getText("menu.startsession.name"),settings,"name","string");
+var carWidget=new MenuFlow(settings.getText("menu.startsession.car"),"cars/____/preview.jpg",CAR_NAMES);
+var circuitWidget=new MenuFlow(settings.getText("menu.startsession.circuit"),"circuits/____/preview.jpg",CIRCUIT_NAMES);
+var modeWidget=new MenuOption(settings.getText("menu.startsession.racetype"),settings,"mode",1,MODES.length-1,MODES);
+var lapsWidget=new MenuOption(settings.getText("menu.startsession.laps"),settings,"laps",settings.MIN_LAPS,settings.MAX_LAPS,null);
+var aiWidget=new MenuOption(settings.getText("menu.startsession.aiactive"),settings,"aiActive","boolean");
+var aiLevelWidget=new MenuOption(settings.getText("menu.startsession.ailevel"),settings,"aiLevel",1,AI_LEVELS.length-1,AI_LEVELS);
+
+framework.createWidget(menu,0,nameWidget);
+framework.createWidget(menu,0,new MenuText());
+framework.createWidget(menu,0,carWidget);
+framework.createWidget(menu,1,circuitWidget);
+framework.createWidget(menu,1,new MenuText());
+framework.createWidget(menu,1,modeWidget);
+framework.createWidget(menu,1,lapsWidget);
+framework.createWidget(menu,1,aiWidget);
+framework.createWidget(menu,1,aiLevelWidget);
