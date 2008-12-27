@@ -36,6 +36,9 @@ if (settings.getRecords(settings.circuit)!=null) {
 }
 
 table.addRow(new String[]{settings.name,settings.car,ConnectionManager.getLocalIP(),Ferrari3D.VERSION});
+if (settings.splitscreen) {
+	table.addRow(new String[]{settings.namePlayer2,settings.carPlayer2,ConnectionManager.getLocalIP(),Ferrari3D.VERSION});
+}
 for (Connection i : Multiplayer.getInstance().getConnectionManager().getConnections()) {
 	table.addRow(new String[]{i.getMeta("id"),i.getMeta("car"),i.getMeta("ip"),i.getMeta("version")});
 }
