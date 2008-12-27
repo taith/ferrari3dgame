@@ -1,0 +1,52 @@
+// Setup menu
+
+menu.setTitle(settings.getText("menu.results.title"));
+
+framework.createPanel(menu,settings.getText("menu.results.title.classification"));
+framework.createPanel(menu,settings.getText("menu.results.title.details"));
+
+// Add buttons
+
+framework.createButton(menu,settings.getText("menu.results.endsession"),'E',framework.ACTION_END_SESSION);
+
+// Add widgets
+
+if (session!=null) {
+	private Contestant getPlayer() {
+		Contestant[] contestants=session.getContestantsSet().toArray(new Contestant[0]);
+		for (int i=0; i<contestants.length; i++) {
+			if (contestants[i] instanceof Player) {
+				return (Player) contestants[i];
+			}
+		}
+		return null;
+	}
+
+	var resultsTable=new MenuTable(new String[]{settings.getText("menu.results.name"),settings.getText("menu.results.car"),
+			settings.getText("menu.results.laps"),settings.getText("menu.results.bestlap")},new int[]{30,30,20,20},8);
+	for (int i=1; i<=session.getNumContestants(); i++) {
+		Contestant target=session.getRacePositionID(i);
+		String[] td=new String[4];
+		td[0]=i+". "+target.getID();
+		td[1]=target.getCar().getCarName();
+		td[2]=""+(target.getLap()-1);
+		td[3]=Utils.timeFormat(target.getBestLaptime());
+		resultsTable.addRow(td);
+	}
+	framework.createWidget(menu,0,resultsTable);
+			
+	var detailsTable=new MenuTable(new String[]{settings.getText("menu.results.lap"),settings.getText("menu.results.sector1"),
+			settings.getText("menu.results.sector2"),settings.getText("menu.results.sector3"),settings.
+			getText("menu.results.laptime")},new int[]{20,20,20,20,20},20);
+	Player player=getPlayer();
+	for (int i=1; i<player.getLap(); i++) {
+		String[] td=new String[5];
+		td[0]="Lap "+i;
+		td[1]=Utils.timeFormat(player.getLaptime(i).getSector(0));
+		td[2]=Utils.timeFormat(player.getLaptime(i).getSector(1));
+		td[3]=Utils.timeFormat(player.getLaptime(i).getSector(2));
+		td[4]=Utils.timeFormat(player.getLaptime(i).getLaptime());
+		detailsTable.addRow(td);
+	}
+	framework.createWidget(menu,1,detailsTable);
+}

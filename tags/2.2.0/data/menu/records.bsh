@@ -1,0 +1,28 @@
+// Setup menu
+
+menu.setTitle(settings.getText("menu.records.title"));
+
+framework.createPanel(menu,settings.circuits.get(0));
+
+// Add buttons
+
+framework.createButton(menu,settings.getText("menu.back"),'B',framework.MENU_START_SESSION);
+
+// Add widgets
+
+var recordsTable=new MenuTable(new String[]{settings.getText("menu.records.name"),
+		settings.getText("menu.records.car"),settings.getText("menu.records.laptime"),
+		settings.getText("menu.records.date")},new int[]{30,25,20,25},15);
+framework.createWidget(menu,0,recordsTable);
+
+TrackRecord[] records=settings.getRecords(settings.circuit);
+
+if ((records!=null) && (records.length>0)) {
+	for (int i=0; i<records.length; i++) {
+		String driverName=(i+1)+". "+records[i].getDriverName();
+		String carName=records[i].getCarName();
+		String laptime=Utils.timeFormat(records[i].getLaptime());
+		String date=records[i].getDate();
+		recordsTable.addRow(new String[]{driverName,carName,laptime,date});
+	}
+}
