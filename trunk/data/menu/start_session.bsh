@@ -9,10 +9,12 @@ menu.setTitle(settings.getText("menu.startsession.title"));
 
 framework.createPanel(menu,settings.getText("menu.startsession.title.driverandcar"));
 framework.createPanel(menu,settings.getText("menu.startsession.title.circuit"));
+framework.createPanel(menu,settings.getText("menu.startsession.title.multiplayer"));
 
 // Add buttons
 
 framework.createButton(menu,settings.getText("menu.back"),'B',framework.MENU_MAIN);
+framework.createButton(menu,settings.getText("menu.records"),'R',framework.ACTION_RECORDS);
 framework.createButton(menu,settings.getText("menu.start"),'S',framework.ACTION_START_SESSION);
 
 // Add widgets
@@ -24,6 +26,11 @@ var modeWidget=new MenuOption(settings.getText("menu.startsession.racetype"),set
 var lapsWidget=new MenuOption(settings.getText("menu.startsession.laps"),settings,"laps",settings.MIN_LAPS,settings.MAX_LAPS,null);
 var aiWidget=new MenuOption(settings.getText("menu.startsession.aiactive"),settings,"aiActive","boolean");
 var aiLevelWidget=new MenuOption(settings.getText("menu.startsession.ailevel"),settings,"aiLevel",1,AI_LEVELS.length-1,AI_LEVELS);
+var splitscreenWidget=new MenuOption(settings.getText("menu.startsession.splitscreen"),settings,"splitscreen","boolean");
+var name2Widget=new MenuOption(settings.getText("menu.startsession.namePlayer2"),settings,"namePlayer2","string");
+var car2Widget=new MenuFlow(settings.getText("menu.startsession.carPlayer2"),"cars/____/preview.jpg",CAR_NAMES);
+var noticeWidget=new MenuText();
+noticeWidget.paintText(settings.getText("menu.startsession.multinote"));
 
 framework.createWidget(menu,0,nameWidget);
 framework.createWidget(menu,0,new MenuText());
@@ -34,3 +41,18 @@ framework.createWidget(menu,1,modeWidget);
 framework.createWidget(menu,1,lapsWidget);
 framework.createWidget(menu,1,aiWidget);
 framework.createWidget(menu,1,aiLevelWidget);
+framework.createWidget(menu,2,splitscreenWidget);
+framework.createWidget(menu,2,name2Widget);
+framework.createWidget(menu,2,new MenuText());
+framework.createWidget(menu,2,car2Widget);
+framework.createWidget(menu,2,new MenuText());
+framework.createWidget(menu,2,noticeWidget);
+
+name2Widget.setEnabled(settings.splitscreen);
+car2Widget.setEnabled(settings.splitscreen);
+splitscreenWidget.addListener(new ActionListener() {
+	public void actionPerformed(ActionEvent e) {
+		name2Widget.setEnabled(settings.splitscreen);
+		car2Widget.setEnabled(settings.splitscreen);
+	}
+});

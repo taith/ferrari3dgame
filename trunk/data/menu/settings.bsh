@@ -45,11 +45,10 @@ controlsText.paintText("Gear down: "+settings.getControlSet()[5],0,120,'l');
 controlsText.paintText("End session: Escape",300,20,'l');
 controlsText.paintText("Pause: P",300,40,'l');
 controlsText.paintText("Change camera: 1-5",300,60,'l');
-controlsText.paintText("AI camera: PageUp/PageDown",300,80,'l');
+controlsText.paintText("AI camera: [ / ]",300,80,'l');
 controlsText.paintText("Track camera: T",300,100,'l');
 controlsText.paintText("Rear camera: V",300,120,'l');
 controlsText.paintText("In-game chat: M",300,140,'l');
-controlsText.paintText("Screenshot: 0",300,160,'l');
 
 framework.createWidget(menu,0,languageWidget);
 framework.createWidget(menu,0,unitsWidget);
