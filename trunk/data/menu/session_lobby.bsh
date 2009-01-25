@@ -20,7 +20,7 @@ var circuitWidget=new MenuOption(settings.getText("menu.startsession.circuit"),s
 var recordWidget=new MenuOption(settings.getText("menu.startsession.trackrecord"),settings.getText("menu.lobby.loadingrecords"),0);
 var modeWidget=new MenuOption(settings.getText("menu.startsession.racetype"),MODES[settings.mode]+" ("+settings.laps+" laps)",0);
 var aiWidget=new MenuOption(settings.getText("menu.startsession.aiactive"),MenuOption.getBooleanText(settings.aiActive)+" ("+AI_LEVELS[settings.aiLevel]+")",0);
-var chatWidget=new MenuChat(Multiplayer.getInstance().getConnectionManager());
+var chatWidget=new MenuChat(Multiplayer.getInstance());
 
 framework.createWidget(menu,0,table);		
 framework.createWidget(menu,0,circuitWidget);
@@ -35,10 +35,10 @@ if (settings.getRecords(settings.circuit)!=null) {
 	recordWidget.setValue(Utils.timeFormat(record.getLaptime())+" ("+record.getDriverName()+")");
 }
 
-table.addRow(new String[]{settings.name,settings.car,ConnectionManager.getLocalIP(),Ferrari3D.VERSION});
+table.addRow(new String[]{settings.name,settings.car,Server.getLocalHost().getHostAddress(),Ferrari3D.VERSION});
 if (settings.splitscreen) {
-	table.addRow(new String[]{settings.namePlayer2,settings.carPlayer2,ConnectionManager.getLocalIP(),Ferrari3D.VERSION});
+	table.addRow(new String[]{settings.namePlayer2,settings.carPlayer2,Server.getLocalHost().getHostAddress(),Ferrari3D.VERSION});
 }
-for (Connection i : Multiplayer.getInstance().getConnectionManager().getConnections()) {
+for (Connection i : Multiplayer.getInstance().getConnections()) {
 	table.addRow(new String[]{i.getMeta("id"),i.getMeta("car"),i.getMeta("ip"),i.getMeta("version")});
 }
