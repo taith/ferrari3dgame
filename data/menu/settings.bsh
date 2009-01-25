@@ -10,6 +10,7 @@ menu.setTitle(settings.getText("menu.settings.title"));
 
 framework.createPanel(menu,settings.getText("menu.settings.title.general"));
 framework.createPanel(menu,settings.getText("menu.settings.title.graphics"));
+framework.createPanel(menu,settings.getText("menu.settings.title.sound"));
 framework.createPanel(menu,settings.getText("menu.settings.title.controls"));
 
 // Add buttons
@@ -31,6 +32,7 @@ var rendererWidget=new MenuOption(settings.getText("menu.settings.renderer"),"jM
 var fullscreenWidget=new MenuOption(settings.getText("menu.settings.fullscreen"),settings,"fullscreen","boolean");
 var resolutionWidget=new MenuOption(settings.getText("menu.settings.resolution"),settings.resolution.width+"x"+settings.resolution.height,2);
 var graphicsWidget=new MenuOption(settings.getText("menu.settings.graphics"),settings,"graphics",1,GRAPHICS.length-1,GRAPHICS);
+var soundWidget=new MenuOption(settings.getText("menu.settings.sound"),settings,"sound","boolean");
 var controlsetWidget=new MenuOption(settings.getText("menu.settings.controlset"),settings,"controlset",0,CONTROLSETS.length-1,CONTROLSETS);
 var autogearsWidget=new MenuOption(settings.getText("menu.settings.autogears"),settings,"autoGears","boolean");		
 var autoreverseWidget=new MenuOption(settings.getText("menu.settings.autoreverse"),settings,"autoReverse","boolean");
@@ -63,8 +65,9 @@ framework.createWidget(menu,1,rendererWidget);
 framework.createWidget(menu,1,fullscreenWidget);
 framework.createWidget(menu,1,resolutionWidget);
 framework.createWidget(menu,1,graphicsWidget);
-framework.createWidget(menu,2,controlsetWidget);
-framework.createWidget(menu,2,autogearsWidget);
-framework.createWidget(menu,2,autoreverseWidget);
-framework.createWidget(menu,2,new MenuText());
-framework.createWidget(menu,2,controlsText);
+framework.createWidget(menu,2,soundWidget);
+framework.createWidget(menu,3,controlsetWidget);
+framework.createWidget(menu,3,autogearsWidget);
+framework.createWidget(menu,3,autoreverseWidget);
+framework.createWidget(menu,3,new MenuText());
+framework.createWidget(menu,3,controlsText);
