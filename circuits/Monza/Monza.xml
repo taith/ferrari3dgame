@@ -2,8 +2,8 @@
 <Ferrari3D>
     <meta>
         <author>Ferrari3D</author>
-        <date>06-03-2009</date>
-        <version>2.2.1</version>
+        <date>10-05-2009</date>
+        <version>2.3.0</version>
         <preview>preview.jpg</preview>
     </meta>
     <carData>
@@ -2361,6 +2361,350 @@
             <rotation>0.0,-0.28,0.0</rotation>
             <scale>0.5</scale>
             <url>block.obj</url>
+        </node>
+        <node id="billboard_tree_1" type="billboard">
+            <position>-86.199905,0.15,2.800003</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_2" type="billboard">
+            <position>-85.39992,0.15,5.400002</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_3" type="billboard">
+            <position>-84.59993,0.15,8.4</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_4" type="billboard">
+            <position>-84.2,0.15,11.199997</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_5" type="billboard">
+            <position>-86.79996,0.15,-0.40000278</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_6" type="billboard">
+            <position>-87.39995,0.15,-3.8000033</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_7" type="billboard">
+            <position>-96.79993,0.15,-43.000008</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_8" type="billboard">
+            <position>-96.59993,0.15,-44.200012</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_9" type="billboard">
+            <position>-96.199936,0.15,-46.00002</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_10" type="billboard">
+            <position>-95.599945,0.15,-47.400024</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_11" type="billboard">
+            <position>-95.19995,0.15,-48.40003</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_12" type="billboard">
+            <position>-75.000046,0.15,-52.800045</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_13" type="billboard">
+            <position>-73.800064,0.15,-52.400043</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_14" type="billboard">
+            <position>-72.60008,0.15,-52.000042</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_15" type="billboard">
+            <position>-71.4001,0.15,-51.80004</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_16" type="billboard">
+            <position>-70.80011,0.15,-51.20004</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_17" type="billboard">
+            <position>-44.200092,0.15,-19.79995</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_18" type="billboard">
+            <position>-42.400085,0.15,-18.199944</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_19" type="billboard">
+            <position>-40.200077,0.15,-16.199936</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_20" type="billboard">
+            <position>-38.40007,0.15,-14.399938</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_21" type="billboard">
+            <position>-36.400063,0.15,-12.599939</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_22" type="billboard">
+            <position>-34.400055,0.15,-10.799941</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_23" type="billboard">
+            <position>-32.80005,0.15,-9.399942</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_24" type="billboard">
+            <position>-31.400043,0.15,-7.9999437</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_25" type="billboard">
+            <position>-29.600037,0.15,-6.3999453</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_26" type="billboard">
+            <position>-28.200031,0.15,-4.9999466</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_27" type="billboard">
+            <position>-24.600018,0.15,-1.7999468</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_28" type="billboard">
+            <position>-23.400013,0.15,-0.5999467</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_29" type="billboard">
+            <position>-22.200008,0.15,0.6000533</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_30" type="billboard">
+            <position>-21.000004,0.15,1.8000535</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_31" type="billboard">
+            <position>90.799866,0.15,21.200054</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_32" type="billboard">
+            <position>92.59984,0.15,22.400059</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_33" type="billboard">
+            <position>93.59982,0.15,23.800064</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_34" type="billboard">
+            <position>94.39981,0.15,26.000072</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_35" type="billboard">
+            <position>94.39981,0.15,27.400078</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_36" type="billboard">
+            <position>94.199814,0.15,29.000084</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_37" type="billboard">
+            <position>93.79982,0.15,30.000088</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_38" type="billboard">
+            <position>93.19983,0.15,31.400093</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_39" type="billboard">
+            <position>92.39984,0.15,32.600098</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_40" type="billboard">
+            <position>90.799866,0.15,34.600105</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
+        </node>
+        <node id="billboard_tree_41" type="billboard">
+            <position>89.599884,0.15,35.60011</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_42" type="billboard">
+            <position>88.3999,0.15,36.400112</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_1.png</texture>
+        </node>
+        <node id="billboard_tree_43" type="billboard">
+            <position>87.599915,0.15,37.000114</position>
+            <rotation>0.0,0.0,0.0</rotation>
+            <scale>1.0</scale>
+            <width>0.3</width>
+            <height>0.3</height>
+            <texture>tree_2.png</texture>
         </node>
     </scenegraph>
 </Ferrari3D>
