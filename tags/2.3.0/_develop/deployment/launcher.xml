@@ -1,0 +1,36 @@
+<launch4jConfig>
+  <dontWrapJar>true</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>ferrari3d.jar</jar>
+  <outfile>/Users/dennisbijlsma/Documents/Projects/Ferrari3D/_release/build/Ferrari3D_2.exe</outfile>
+  <errTitle>Ferrari3D</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>true</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>/Users/dennisbijlsma/Documents/Projects/Ferrari3D/_release/build/data/graphics/icon.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <maxHeapSize>128</maxHeapSize>
+    <opt>-Djava.library.path=libraries/native</opt>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.0.0.0</fileVersion>
+    <txtFileVersion>2.0.0.0</txtFileVersion>
+    <fileDescription>Ferrari3D</fileDescription>
+    <copyright>c2008 dennisbijlsma.com</copyright>
+    <productVersion>2.0.0.0</productVersion>
+    <txtProductVersion>2.0.0.0</txtProductVersion>
+    <productName>Ferrari3D</productName>
+    <companyName>dennisbijlsma.com</companyName>
+    <internalName>ferrari3d</internalName>
+    <originalFilename>ferrari3d.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
