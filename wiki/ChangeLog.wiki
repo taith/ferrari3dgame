@@ -1,0 +1,116 @@
+#summary Lists changes for each version.
+
+*2.3.2 (??-??-2009)*
+
+- Replays.
+
+*2.3.1 (14-06-2009)*
+
+- Better detection of crashes because of graphics card driver problems.<br>
+- Fixed crashes when sound is enabled.<br>
+- Track records screen now shows best 50 instead of 20.<br>
+- Small improvements to graphics and camera.
+
+*2.3.0 (31-05-2009)*
+
+- Integrated menu system.<br>
+- No longer required to restart the game to start a new session.<br>
+- Improved car physics.<br>
+- Small editor improvements.
+
+*2.2.1 (06-03-2009)*
+
+- Added sound (disabled by default).<br>
+- HUD now also works in splitscreen.<br>
+- Improved editor interface.<br>
+- Reduced loading times.<br>
+- Fixed bugs and improved performance in network multiplayer.
+
+*2.2.0 (27-12-2008)*
+
+- Splitscreen multiplayer.<br>
+- Penalties when driving off track too long (to prevent corner cutting).<br>
+- Improved track records menu.<br>
+- Improved SAT messages during race.
+
+*2.1.6 (19-10-2008)*
+
+- Improved performance.<br>
+- Improved AI.<br>
+- Helmet graphics.<br>
+- Enable or disable debug mode from the menu.<br>
+- Fixed bug with car handling in reverse gear.<br>
+- Fixed bug in editor with node transforms not being updated.
+
+*2.1.5 (28-09-2008)*
+
+- Improved performance.<br>
+- Fixed bug with editor on Windows.
+
+*2.1.4 (10-08-2008)*
+
+- Added automatic error reporting.
+
+*2.1.3 (14-07-2008)*
+
+- Improved physics.<br>
+- Improved AI.<br>
+- 6 cars participate at the same time now.<br>
+- Added animated effects to menu system.
+
+*2.1.2 (23-06-2008)*
+
+- Upgraded to Java 6.<br>
+- Fullscreen now also works in menu.<br>
+- Fixed bugs with AI cars.<br>
+- Fixed multiplayer performance problems.
+
+*2.1.1 (18-05-2008)*
+
+- AI balance changes.<br>
+- Particle effects.
+
+*2.1.0 (12-05-2008)*
+
+- New car physics model.<br>
+- Improved graphics.<br>
+- Menus are now located in separate files (and are editable).<br>
+- Added track cameras.<br>
+- Added option to race without CPU cars.<br>
+- Added keyboard shortcuts to menus.<br>
+- Fixed bug where multiplayer players could have different settings.
+
+*2.0.4 (14-03-2008)*
+
+- Added race mode.<br>
+- New AI system.<br>
+- Improved graphics.<br>
+- Changed editor to one window instead of two.<br>
+- Added support for Java Web Start.
+
+*2.0.3 (16-02-2008)*
+
+- Improved graphics.<br>
+- Improved editor.<br>
+- Fixed bugs in multiplayer mode.
+
+*2.0.2 (09-02-2008)*
+
+- Improved AI.<br>
+- Graphical improvements.<br>
+- Added splash screen during loading.<br>
+- Fixed multiple bugs in multiplayer mode.
+
+*2.0.1 (06-01-2008)*
+
+- Improved car/car collision physics.<br>
+- Added pause (works in multiplayer).<br>
+- Added TV graphics.<br>
+- Added radar.<br>
+- Added in-game chat.<br>
+- Added player name indicators.<br>
+- Auto-reverse is now enabled by default.
+
+*2.0.0 (30-12-2007)*
+
+- Re-release.
