@@ -1,8 +1,8 @@
 #summary Lists changes for each version.
 
-*2.3.2 (??-??-2009)*
+*2.3.2 (19-07-2009)*
 
-- Replays.
+- Added instant replays.
 
 *2.3.1 (14-06-2009)*
 
