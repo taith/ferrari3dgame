@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="Ferrari3D" default="build" basedir=".">
+	<property name="build.dir" value="_release/build" />
+	<property name="source.dir" value="source" />
+	<property name="libraries.dir" value="libraries" />
+	<property name="binaries.dir" value="${build.dir}/binaries" />
+	<property name="jar.name" value="${build.dir}/ferrari3d.jar" />
+	<property name="jar.mainclass" value="com.dennisbijlsma.ferrari3d.Ferrari3D" />
+	
+	<path id="classpath">
+		<fileset dir="${build.dir}/${libraries.dir}" includes="**/*.jar" />
+	</path>
+		
+	<target name="clean">
+		<delete dir="${build.dir}" />
+		<mkdir dir="${build.dir}" />
+	</target>
+	
+	<target name="dependencies" depends="clean">
+		<mkdir dir="${build.dir}/${libraries.dir}" />
+		<copy todir="${build.dir}/${libraries.dir}">
+			<fileset dir="${libraries.dir}" />
+		</copy>
+	</target>
+	
+	<target name="compile" depends="dependencies">
+		<mkdir dir="${binaries.dir}" />
+		<javac srcdir="${source.dir}" destdir="${binaries.dir}" classpathref="classpath"
+				source="1.6" target="1.6" encoding="UTF-8" debug="true" />
+	</target>
+	
+	<target name="jar" depends="compile">		
+		<pathconvert property="jar.classpath" pathsep=" ">
+			<path refid="classpath" />
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*.jar" to="${libraries.dir}/*.jar" />
+			</chainedmapper>
+		</pathconvert>
+		<jar jarfile="${jar.name}" basedir="${binaries.dir}">			
+			<manifest>
+				<attribute name="Manifest-Version" value="1.0" />
+				<attribute name="Main-Class" value="${jar.mainclass}" />
+				<attribute name="Class-Path" value="${jar.classpath}" />
+			</manifest>
+		</jar>
+		<delete dir="${binaries.dir}" />
+	</target>
+	
+	<target name="build" depends="jar">
+		<copy todir="${build.dir}/data">
+			<fileset dir="data" />
+		</copy>
+		<copy todir="${build.dir}/cars">
+			<fileset dir="cars" excludes="**/*.max" />
+		</copy>
+		<copy todir="${build.dir}/circuits">
+			<fileset dir="circuits" excludes="**/*.max" />
+		</copy>
+	</target>
+</project>

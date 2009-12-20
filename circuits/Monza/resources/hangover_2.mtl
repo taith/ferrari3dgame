@@ -1,0 +1,20 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Logo_Vodafone
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+map_Kd vodafone.jpg
+#
+newmtl Steel
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# EOF
