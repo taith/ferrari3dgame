@@ -1,5 +1,14 @@
 #summary Lists changes for each version.
 
+*2.4.0*
+
+- Supports internet multiplayer as well as local network.<br>
+- Supports Mac OS X Snow Leopard.<br>
+- Improved circuit graphics.<br>
+- Improved TV graphics.<br>
+- Improved AI.<br>
+- Re-added multiplayer chat.
+
 *2.3.2*
 
 - Added instant replays.
