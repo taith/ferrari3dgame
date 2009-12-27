@@ -1,5 +1,11 @@
 #summary Lists changes for each version.
 
+*2.4.1*
+
+- Fixed bug with wrong application data directory being used on Windows.<br>
+- Fixed bug with HUDs appearing too far up in splitscreen multiplayer.<br>
+- Fixed bug where after a crash the process stays active.
+
 *2.4.0*
 
 - Supports internet multiplayer as well as local network.<br>
