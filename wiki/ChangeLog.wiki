@@ -1,5 +1,9 @@
 #summary Lists changes for each version.
 
+*2.4.2*
+
+- Fixed multiplayer crash.
+
 *2.4.1*
 
 - Fixed bug with wrong application data directory being used on Windows.<br>
