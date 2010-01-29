@@ -2,8 +2,8 @@
 <Ferrari3D>
     <meta>
         <author>Ferrari3D</author>
-        <date>20-12-2009</date>
-        <version>2.4.0</version>
+        <date>14-01-2010</date>
+        <version>2.4.2</version>
         <preview>preview.jpg</preview>
     </meta>
     <carData>
@@ -909,7 +909,7 @@
             </point>
             <point>
                 <point>-66.9995,-49.49975</point>
-                <speed>30.0</speed>
+                <speed>25.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
@@ -926,7 +926,7 @@
             </point>
             <point>
                 <point>-64.59953,-45.599808</point>
-                <speed>40.0</speed>
+                <speed>35.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
@@ -1261,7 +1261,7 @@
             <point>
                 <point>-13.899961,10.700076</point>
                 <altPoint>-13.799961,9.900073</altPoint>
-                <speed>27.0</speed>
+                <speed>25.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
@@ -1281,6 +1281,7 @@
             </point>
             <point>
                 <point>-10.099947,12.500083</point>
+                <speed>25.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
@@ -1314,6 +1315,7 @@
             </point>
             <point>
                 <point>-0.9999448,13.700088</point>
+                <speed>30.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
@@ -1330,7 +1332,7 @@
             </point>
             <point>
                 <point>2.9000547,15.500094</point>
-                <speed>40.0</speed>
+                <speed>30.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
@@ -1363,7 +1365,7 @@
             </point>
             <point>
                 <point>12.700068,18.500105</point>
-                <speed>60.0</speed>
+                <speed>50.0</speed>
                 <intermediate>false</intermediate>
             </point>
             <point>
