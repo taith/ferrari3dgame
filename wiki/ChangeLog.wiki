@@ -1,5 +1,10 @@
 #summary Lists changes for each version.
 
+*2.4.3*
+
+- Fixed another multiplayer crash.<br>
+- Improved local network multiplayer performance.
+
 *2.4.2*
 
 - Fixed multiplayer crash.
